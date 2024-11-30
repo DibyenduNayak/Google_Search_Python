@@ -1,0 +1,1 @@
+open new terminal and put "pip install googlesearch-python" to import the googlesearch lib
